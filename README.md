@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RazaSayed72
-- 👀 I’m interested in Data Science, Analytics and Machine Learning
+- 👀 I’m interested in Data Science, Data Analytics and Machine Learning
 - 🌱 I’m currently learning Deep Learning and Artificial Intellingence
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me (razasayed052@gmail.com)
